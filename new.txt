@@ -1,3 +1,4 @@
 init
 develop
 feature-1
+feature-2
